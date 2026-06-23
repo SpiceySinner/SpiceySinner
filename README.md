@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working AI-Inator 9000
+- 🔭 I’m currently working on AI-Inator 9000
 - 🌱 I’m currently learning why she not responds
 - 👯 I’m looking to collaborate on working together on Stuff
 - 🤔 I’m looking for help with Tax Evasion & platypus infestation
